@@ -1,2 +1,2 @@
 # text-to-specch
-#any thing we tyoe in engine.say functipon it will speaks
+#any thing we type in engine.say functipon it will speaks
